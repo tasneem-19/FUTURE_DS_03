@@ -29,7 +29,7 @@ The dashboard provides insights into customer response patterns, campaign perfor
 
 ## 🖼 Dashboard Preview
 
-[Marketing Campaign Conversion Dashboard](Dashboard_screenshot.jpg)
+![Marketing Campaign Conversion Dashboard](Dashboard_screenshot.jpg)
 
 ---
 
